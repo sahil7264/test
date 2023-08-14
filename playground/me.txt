@@ -1,3 +1,0 @@
-Name: Sahil Shile
-Skills: HTML, CSS, JS, ReactJs , ExpressJS , NodeJs , MongoDB , OracleDB
-Email: shile.sahil726@gmail.com
